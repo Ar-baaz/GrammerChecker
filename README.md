@@ -11,7 +11,7 @@ To run this application, you must have Python 3.6 or later installed on your mac
 After installing Python, you can clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Ar-baaz/spell-checker.git
+git clone https://github.com/Ar-baaz/GrammerChecker
 ```
 
 Next, navigate to the project directory:
