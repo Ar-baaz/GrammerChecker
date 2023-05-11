@@ -17,7 +17,7 @@ git clone https://github.com/Ar-baaz/spell-checker.git
 Next, navigate to the project directory:
 
 ```bash
-cd spell-checker
+cd GrammerChecker
 ```
 
 Create a virtual environment for the project and activate it:
