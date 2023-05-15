@@ -39,7 +39,7 @@ pip install -r requirements.txt
 To run the application, simply execute the following command in your terminal or command prompt:
 
 ```bash
-streamlit run app.py
+streamlit run GrammerChecker.py
 ```
 
 This will start the application on a local web server. You can access the application by opening a web browser and navigating to http://localhost:8501/
