@@ -1,4 +1,3 @@
-Certainly! Here's an example README file for your project:
 
 # Spell Checker
 
